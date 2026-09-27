@@ -4,7 +4,7 @@
 
 </div>
 <p align="center">
-  <img src="./assets/cole.gif" width="220">
+  <img src="./assets/cole2.gif" width="220">
 </p>
 
 # `muzguy.`
