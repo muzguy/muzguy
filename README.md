@@ -3,6 +3,9 @@
 <img src="https://raw.githubusercontent.com/muzguy/muzguy/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
 
 </div>
+<p align="center">
+  <img src="./assets/rohit-snake-pfp.gif" width="220">
+</p>
 
 # `muzguy.`
 
