@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="./muzguy-header.png" width="100%" alt="Muzguy — building things with code + AI">
+<img src="https://raw.githubusercontent.com/muzguy/muzguy/output/github-snake.svg" width="100%" alt="GitHub contribution snake">
 
-<br>
+</div>
 
 # `muzguy.`
 
